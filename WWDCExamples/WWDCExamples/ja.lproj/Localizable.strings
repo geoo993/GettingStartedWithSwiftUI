@@ -1,0 +1,11 @@
+/*
+  Localizable.strings
+  WWDCExamples
+
+  Created by GEORGE QUENTIN on 18/08/2020.
+  Copyright © 2020 GEORGE QUENTIN. All rights reserved.
+*/
+
+"add_activity" = "アクティビティを追加";
+"activities_title" = "活動内容";
+"go_to_page" = "ページに移動";

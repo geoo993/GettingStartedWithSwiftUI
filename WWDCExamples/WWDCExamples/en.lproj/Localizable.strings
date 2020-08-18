@@ -1,0 +1,11 @@
+/*
+  Localizable.strings
+  WWDCExamples
+
+  Created by GEORGE QUENTIN on 18/08/2020.
+  Copyright © 2020 GEORGE QUENTIN. All rights reserved.
+*/
+
+"add_activity" = "Add Activity";
+"activities_title" = "Activities";
+"go_to_page" = "Go to Page";
