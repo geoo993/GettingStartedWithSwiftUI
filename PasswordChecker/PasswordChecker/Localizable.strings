@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  PasswordChecker
+
+  Created by GEORGE QUENTIN on 31/08/2020.
+  Copyright © 2020 GEORGE QUENTIN. All rights reserved.
+*/
+
+"password__very_weak" = "Very Weak";
+"password__weak" = "Weak";
+"password__reasonable" = "Reasonable";
+"password__strong" = "Strong";
+"password__very_strong" = "Very Strong";
+"password__username_characters" = "User name must at least have 3 characters";
+"password__empty" = "Password must not be empty";
+"password__no_match" = "Passwords don't match";
+"password__not_strong_enough" = "Password not strong enough";

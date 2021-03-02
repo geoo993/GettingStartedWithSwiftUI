@@ -2,6 +2,15 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:WWWExamples2020/WWWExamples2020.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PasswordChecker/PasswordChecker.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Todoe/Todoe.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Landmarks/Landmarks.xcodeproj">
    </FileRef>
    <FileRef
